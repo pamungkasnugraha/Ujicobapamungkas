@@ -16,7 +16,7 @@ public class BookManagerTest {
         bookManager = new BookManager();
     }
 
-    @Test
+    @Tes
     @DisplayName("Test menambahkan buku")
     void testAddBook() {
         Book buku = new Book("Pemrograman", "Andi", 2020);
