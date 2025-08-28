@@ -81,7 +81,7 @@ public class BookManagerTest {
     }
 
     // Kemungkinan Unit Test dibawah untuk seluruh buku yang ada di dalam List
-    @Test konotol
+    @Test
     @DisplayName("Test mendapatkan semua buku")
     void testGetAllBooks() {
         // Arrange - Tambahkan beberapa buku
